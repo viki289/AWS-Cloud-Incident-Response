@@ -66,3 +66,8 @@ The main objective is to reconstruct the incident timeline, identify security we
                        |
               Security Hardening
 ```
+---
+
+## 📄 Project Report
+
+[Download AWS Cloud Incident Response Report (PDF)](./Cloud_Incident_Respose_Report.pdf)
