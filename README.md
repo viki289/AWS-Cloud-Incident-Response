@@ -68,3 +68,4 @@ The main objective is to reconstruct the incident timeline, identify security we
                        |
                        |
               Security Hardening
+```
