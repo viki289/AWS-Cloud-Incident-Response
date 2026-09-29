@@ -55,7 +55,6 @@ The main objective is to reconstruct the incident timeline, identify security we
                  CloudWatch
                 Logs Insights
                        |
-                       |
              Incident Investigation
                        |
         +--------------+--------------+
@@ -63,9 +62,7 @@ The main objective is to reconstruct the incident timeline, identify security we
     Timeline       IOC Analysis    Impact
     Analysis                       Assessment
                        |
-                       |
               Remediation Plan
-                       |
                        |
               Security Hardening
 ```
